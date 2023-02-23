@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Learning Tutorial",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahsinAyman/node-js.git"
+  },
+  "author": "Tahsin Ayman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TahsinAyman/node-js/issues"
+  },
+  "homepage": "https://github.com/TahsinAyman/node-js#readme"
+}
